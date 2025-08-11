@@ -1,0 +1,10 @@
+{
+  "name": "bootcamp-todomvc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Rhuan Henrick",
+  "license": "MIT",
+  "dependencies": {
+    "cypress": "^14.5.2"
+  }
+}
